@@ -1,6 +1,6 @@
 # flutter_layout
 
-Flutters approach to layout
+Flutters approach to layout. Implementation of doc: https://flutter.io/tutorials/layout/
 
 ## Getting Started
 
